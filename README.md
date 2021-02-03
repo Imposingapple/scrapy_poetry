@@ -8,7 +8,8 @@
 ![示例](https://github.com/Imposingapple/scrapy_poetry/blob/main/img/example.png)
 
 **非常欢迎大家的使用，喜欢的朋友点个star哈！**
-&nbsp
+\
+\
 
 
 ### 使用方法
@@ -24,7 +25,8 @@
 要将你获取的各个分类的json整合到一起（使得一首诗词只出现一次，并且'topic'是所有该诗词标签的list）：
 
 直接运行./data/merge_topics.py
-&nbsp
+\
+\
 
 
 ### 备注：
